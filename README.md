@@ -1,7 +1,7 @@
 # Sinmonitos1
 Eliminado  de monitos
 
-git clonehttps://github.com/Napoleon7426/Sinmonitos1
+git clone https://github.com/Napoleon7426/Sinmonitos1
 
 cd Sinmonitos1
 
